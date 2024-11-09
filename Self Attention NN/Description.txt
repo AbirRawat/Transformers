@@ -1,0 +1,7 @@
+Self-Attention Neural Network model from scratch in Python. Self-attention is a crucial mechanism in many modern deep learning models like BERT, llama, etc,  allowing the network to focus on different parts of the input sequence at each layer, enabling it to better capture long-term dependencies and contextual relationships. This model includes:
+
+A core self-attention layer with customizable attention heads.
+
+Feed-forward layers that process the output of the attention mechanism.
+
+Flexible configurations for various tasks, including sequence processing and text generation.

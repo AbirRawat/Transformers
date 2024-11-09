@@ -1,0 +1,5 @@
+Multi-Head Attention model using Python. It the self-attention mechanism by applying multiple attention heads simultaneously, enabling the model to capture diverse patterns and relationships within the data. Each attention head independently learns a different attention weight, which is then concatenated and transformed, providing richer representations. It has:
+
+Multi-head attention with customizable number of heads and hidden dimensions.
+
+Scaled dot-product attention for efficient computation.
